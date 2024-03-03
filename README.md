@@ -2,10 +2,10 @@
 Color cruncher has a concept similar to pacman except that instead of avoiding moving ghosts. We have to avoid static red blocks and eat green ones to score points. Moving through walls brings you back at the opposite end and hitting a red block will lead to Game Over. Movement speed of the asterisk is implemented via timer interrupt and keyboard interrupt is used to interact and play via the keyboard
 
 # How to run
-Open dosbox
-Mount the project
-Enter the project directory
-Run .exe file for the program
+• Open dosbox
+• Mount the project
+• Enter the project directory
+• Run .exe file for the program
 
 # Project requirements
 •	The game will start when you run your program on DOSBox.
